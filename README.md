@@ -4,5 +4,4 @@ I'm a cloud engineer, formerly a server infrastructure and network engineer. Con
 
 - 🔭 I’m currently working in cloud infrastructure solutions and automation using Terraform
 - 🌱 I’m currently learning serverless development using Python and Go and running workloads on kubernetes
-- ⚡ Side hobbies: rock climbing
 - 📫 You can reach me on [LinkedIn](https://https://www.linkedin.com/in/danieltle/)
