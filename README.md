@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel!
 
-## A cloud engineer with experience in server infrastructure, consulting and networking. 
-Continuously learning about cloud infrastructure and modern software development. 
+## A cloud engineer with experience in server infra, consulting and networking
+Continuously learning 
 
 - 🔭 I’m currently working in cloud infrastructure solutions and automation using Terraform
 - 🌱 I’m currently learning serverless development using Python and Go and running workloads on kubernetes
