@@ -2,7 +2,7 @@
 
 ## I'm currently a cloud engineer
 
-- 🔭 I'm building infrastructure solutions on AWS. 
+- 🔭 I've been building infrastructure solutions on AWS
 - 🌱 I’m currently learning development using Python and running workloads on Kubernetes
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/danieltle/)
 
