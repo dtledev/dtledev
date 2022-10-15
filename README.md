@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning development using Python and running workloads on kubernetes
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/danieltle/)
 
-## Some badges I've been collecting
+## Badges I've been collecting
 <a href="https://www.credly.com/badges/5883ec2a-4046-4a5e-a0e3-714e63b4cb82/public_url">
   <img src="./images/AWS-SAP.png" alt="AWS Solutions Architect Professional" style="width:120px;height:120px;">
 </a>
