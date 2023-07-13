@@ -10,6 +10,10 @@
   <img src="./images/AWS-SAP.png" alt="AWS Solutions Architect Professional" style="width:120px;height:120px;">
 </a>
 
+<a href="https://www.credly.com/badges/5883ec2a-4046-4a5e-a0e3-714e63b4cb82/public_url">
+  <img src="./images/AWS-DOP.png" alt="AWS DevOps Engineer Professional" style="width:120px;height:120px;">
+</a>
+
 <a href="https://www.credly.com/badges/d18d2033-e1c3-4907-939d-0a8d2e77daf8/public_url">
   <img src="./images/AWS-DA.png" alt="AWS Developer Associate" style="width:120px;height:120px;">
 </a>
